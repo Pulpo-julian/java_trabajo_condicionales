@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class Punto_5 {
+public class Punto_05 {
     public static void main(String[]args) {
         
         Scanner sc = new Scanner(System.in);

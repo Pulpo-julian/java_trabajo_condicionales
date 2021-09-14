@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class Punto_9 {
+public class Punto_09 {
     public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("ingrese el valor de las 3 piezas de la maquina: ");

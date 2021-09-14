@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class Punto_1 {
+public class Punto_01 {
     public static void main (String[]args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("ingrese el año: ");
